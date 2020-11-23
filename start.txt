@@ -1,0 +1,2 @@
+environments\selenium_env\Scripts\activate.bat
+python C:\Users\User\selenium_course\
